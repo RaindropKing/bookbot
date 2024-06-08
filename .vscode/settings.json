@@ -1,0 +1,3 @@
+{
+    "python.pythonPath": "/Users/darrenwong/opt/anaconda3/bin/python"  // or the exact path to your Conda environment's Python interpreter
+  }
